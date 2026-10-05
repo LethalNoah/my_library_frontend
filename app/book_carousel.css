@@ -1,0 +1,4 @@
+.book_carousel {
+    display: flex;
+    flex-direction: row;
+}
